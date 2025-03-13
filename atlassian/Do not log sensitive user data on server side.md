@@ -8,13 +8,13 @@
 - Forge
 
 <!-- #description -->
-# #### What is it?
+### What is it?
 This practice is triggered when code logs information obtained from user input and includes any sensitive data such as passwords, financial details, or personally identifiable information that should remain confidential.
 
-#### Why apply it?
+### Why apply it?
 Logging sensitive user data can lead to security breaches and compliance issues, as attackers or unauthorized parties might access logs to gather personal data, creating severe privacy risks.
 
-#### How to Fix it?
+### How to Fix it?
 Ensure that any logging mechanism excludes or masks sensitive elements by sanitizing, redacting, or encrypting the data before logging.
 
 
