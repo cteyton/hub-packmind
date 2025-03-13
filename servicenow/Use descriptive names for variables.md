@@ -10,7 +10,7 @@
 - Code Readability
 
 <!-- #description -->
-# ### What
+### What
 Variable names should clearly communicate the purpose and function of the variable, avoiding generic names like 'gr'.
 
 ### Why

@@ -10,7 +10,7 @@
 - Maintainability
 
 <!-- #description -->
-# ### What
+### What
 Hardcoding values directly in ServiceNow scripts can create maintenance challenges and reduce flexibility, as these values are not easily adjustable or reusable across different scripts.
 
 ### Why

@@ -10,7 +10,7 @@
 - Performance
 
 <!-- #description -->
-# ### What
+### What
 Logging functions like gs.log() and gs.info() should be disabled in production code after they have served their purpose during development and testing.
 
 ### Why

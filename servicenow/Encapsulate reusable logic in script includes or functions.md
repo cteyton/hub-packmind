@@ -10,7 +10,7 @@
 - Modularity
 
 <!-- #description -->
-# ### What
+### What
 Directly performing operations within scripts without encapsulating them in reusable functions or script includes can lead to code duplication and reduce readability.
 
 ### Why

@@ -10,7 +10,7 @@
 - Performance
 
 <!-- #description -->
-# ### What
+### What
 When interacting with APIs, especially when fetching data that may change frequently, cached responses can lead to outdated information being used.
 
 ### Why

@@ -10,7 +10,7 @@
 - Best Practices
 
 <!-- #description -->
-# ### What
+### What
 The practice involves avoiding unnecessary or repeated calls to the current.update() function within ServiceNow scripts, especially when it may trigger associated recursive Business Rules.
 
 ### Why

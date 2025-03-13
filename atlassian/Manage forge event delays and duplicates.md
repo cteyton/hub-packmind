@@ -10,7 +10,7 @@
 - Best Practices
 
 <!-- #description -->
-# ### What
+### What
 This practice is triggered when handling Forge events that may be delayed or duplicated, such as webhooks for Jira issue creation.
 
 ### Why

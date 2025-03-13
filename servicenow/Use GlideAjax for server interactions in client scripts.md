@@ -10,7 +10,7 @@
 - Security
 
 <!-- #description -->
-# ### What
+### What
 This practice is triggered when implementing interactions between client scripts and server-side scripts in ServiceNow.
 
 ### Why

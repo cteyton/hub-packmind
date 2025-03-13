@@ -10,7 +10,7 @@
 - Serverless
 
 <!-- #description -->
-# ### What
+### What
 Functions in Forge environments are terminated if their execution exceeds 25 seconds, which can occur when waiting for a slow API response.
 
 ### Why

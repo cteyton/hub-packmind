@@ -10,7 +10,7 @@
 - Storage
 
 <!-- #description -->
-# ### What
+### What
 This practice is triggered when using global storage without differentiating data between users, which can be identified by code that uses generic keys like "theme" without reference to a unique user identifier. Violating code typically stores values in storage using fixed keys that can be accessed by any user.
 
 ### Why

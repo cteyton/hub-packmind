@@ -10,7 +10,7 @@
 - Serverless
 
 <!-- #description -->
-# ### What
+### What
 Attempting to access secrets directly from the UI Kit or frontend will result in errors as secrets only function in the backend.
 
 ### Why

@@ -10,7 +10,7 @@
 - API
 
 <!-- #description -->
-# ### What
+### What
 This practice is applicable when making requests to Jira APIs from a Custom UI using React or Vue, where direct requests result in CORS issues.
 
 ### Why
